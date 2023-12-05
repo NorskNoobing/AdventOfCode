@@ -1,0 +1,1 @@
+This is a repository containing my solutions for the [AdventOfCode](https://adventofcode.com/) tasks.
